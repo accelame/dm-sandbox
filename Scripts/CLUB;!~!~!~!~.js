@@ -1,0 +1,1 @@
+aa.debug("#####################################", aa.env.getValue("EventName"));
