@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------------------------------------------/
-| Program : ContactLookupBefore.0.js
+| Program : ContactLookupBefore.0.js.
 | Event   : ContactLookupBefore
 |
 | Usage   : Master Script by Accela.  See accompanying documentation and release notes.
